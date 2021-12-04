@@ -1,9 +1,9 @@
 h1 {
-    color: blue;
+    color:black
     text-align: center;
   }
   h2 {
-    color: green;
+    color:grey;
     font-style: italic;
     text-align: center;
   }
@@ -13,4 +13,6 @@ h1 {
   ul {
     line-height: 40px;
     font-style: normal;
+  }
+  li {font: lighter;
   }
