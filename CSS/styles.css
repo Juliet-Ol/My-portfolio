@@ -1,18 +1,21 @@
 h1 {
-    color:black
-    text-align: center;
-  }
-  h2 {
-    color:grey;
-    font-style: italic;
-    text-align: center;
-  }
-  p {
-    font-family: sans-serif;
-  }
-  ul {
-    line-height: 40px;
-    font-style: normal;
-  }
-  li {font: lighter;
-  }
+  color: black;
+  text-align: center;
+}
+h2 {
+  color: grey;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+  font-size: large;
+}
+ul {
+  line-height: 40px;
+}
+li { 
+  font-weight: lighter;
+  font-size: large;
+
+}
